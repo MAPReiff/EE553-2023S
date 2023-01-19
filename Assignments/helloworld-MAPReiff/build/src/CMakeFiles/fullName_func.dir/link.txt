@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libfullName_func.a CMakeFiles/fullName_func.dir/fullName.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libfullName_func.a

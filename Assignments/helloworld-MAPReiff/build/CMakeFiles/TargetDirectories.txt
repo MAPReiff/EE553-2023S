@@ -1,0 +1,6 @@
+/Users/mreiff/Documents/git/EE553-2023S/Assignments/submodules/helloworld-MAPReiff/build/CMakeFiles/main_executable.dir
+/Users/mreiff/Documents/git/EE553-2023S/Assignments/submodules/helloworld-MAPReiff/build/CMakeFiles/edit_cache.dir
+/Users/mreiff/Documents/git/EE553-2023S/Assignments/submodules/helloworld-MAPReiff/build/CMakeFiles/rebuild_cache.dir
+/Users/mreiff/Documents/git/EE553-2023S/Assignments/submodules/helloworld-MAPReiff/build/src/CMakeFiles/fullName_func.dir
+/Users/mreiff/Documents/git/EE553-2023S/Assignments/submodules/helloworld-MAPReiff/build/src/CMakeFiles/edit_cache.dir
+/Users/mreiff/Documents/git/EE553-2023S/Assignments/submodules/helloworld-MAPReiff/build/src/CMakeFiles/rebuild_cache.dir
