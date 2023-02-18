@@ -1,0 +1,6 @@
+/Users/mreiff/Documents/git/EE553-2023S/Assignments/submodules/hw3-MAPReiff/build/CMakeFiles/main_executable.dir
+/Users/mreiff/Documents/git/EE553-2023S/Assignments/submodules/hw3-MAPReiff/build/CMakeFiles/edit_cache.dir
+/Users/mreiff/Documents/git/EE553-2023S/Assignments/submodules/hw3-MAPReiff/build/CMakeFiles/rebuild_cache.dir
+/Users/mreiff/Documents/git/EE553-2023S/Assignments/submodules/hw3-MAPReiff/build/src/CMakeFiles/f_func.dir
+/Users/mreiff/Documents/git/EE553-2023S/Assignments/submodules/hw3-MAPReiff/build/src/CMakeFiles/edit_cache.dir
+/Users/mreiff/Documents/git/EE553-2023S/Assignments/submodules/hw3-MAPReiff/build/src/CMakeFiles/rebuild_cache.dir

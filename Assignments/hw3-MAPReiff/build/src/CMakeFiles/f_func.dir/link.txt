@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libf_func.a CMakeFiles/f_func.dir/classComplex.cpp.o CMakeFiles/f_func.dir/functionArray.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libf_func.a
