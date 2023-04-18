@@ -1,0 +1,5 @@
+beacon b1 5 1
+beacon b2 -3 3
+beacon b3  -1 4
+robot r1 1 2 
+robot r2 10 5
