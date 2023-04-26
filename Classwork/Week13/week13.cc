@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <string>
 using namespace std;
@@ -38,22 +37,14 @@ class Teacher {
 		Teacher() {
 			count = 0;
 		}
-		// ~Teacher() {
-		// }
+		~Teacher() {
+		}
 		// bonus constructor - sends courses to point to them
 		//Teacher(Course* inArr[],int n)
 		Teacher(Course *inArr[], int n) {
-			count = 0;
-			for (int i = 0; i < n; i++) {
-				AddCourse(inArr[i]);
-			}
+			*cArr = *inArr;
+			count = n;
 		}
-		~Teacher() {
-			for (int i = 0; i < count; i++) {
-				delete cArr[i];
-			}
-		}
-
 		void AddCourse(Course *pc) {
 			cArr[count] = pc;
 			count++;
